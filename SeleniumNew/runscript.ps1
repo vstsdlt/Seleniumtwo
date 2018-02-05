@@ -1,3 +1,3 @@
 
-cd "C:\Selenium Automation\Selenium Automation\"
+cd "C:\SeleniumTest\"
 .\ExecuteTestCases.bat
